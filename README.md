@@ -1,180 +1,183 @@
-# Puntos de Repaso Realizados en Python. Sergio Gómez
+#  **Puntos de repaso en Python.**
 
-Primer Punto: Se usa prints para imprimir en la consola la frase en su interior entre comillas
+Los 30 puntos a continuación están hechos para explorar y recordar las principales funciones, estructuras de control, bucles y analizar la lógica para la resolución de problemas en el lenguaje de Python, con el fin de prepararse para la programación orientada a objetos. Hecho por Sergio Alejandro Gómez Contreras. segomezco@unal.edu.co
 
-![image](https://github.com/user-attachments/assets/45fa0230-464c-44c0-ad0b-eca413bb1550)
-Salida:
+## **Punto 1:**
+En los puntos 1 al punto 7 se utiliza principalmente la función print, para mostrar el contenido en la consola. 
 
-![image](https://github.com/user-attachments/assets/c7ed6051-9065-4a13-bc5c-1c6cac70785f)
+Impresión de una frase usando print, la frase debe ir entre paréntesis y comillas, se puede usar los f prints que permite concatenar variables.
 
-Segundo Punto: Los prints también pueden imprimir números.
+![image](https://github.com/user-attachments/assets/526a67cc-0401-41bc-a333-4ebdbfbd83e6)
 
-![image](https://github.com/user-attachments/assets/ecb62093-b131-4f20-b559-910dd46ffb70)
-Salidad:
+**Salida:**
 
-![image](https://github.com/user-attachments/assets/cfef4526-42b3-483b-ab09-261977ffa214)
+![image](https://github.com/user-attachments/assets/01e49034-8861-4c1b-a880-3a987d03cb4b)
 
-Tercer Punto: Los float también se pueden imprimir usando un print
-![image](https://github.com/user-attachments/assets/f9a3aebe-e7a5-46d3-a6d4-83d16909afc7)
-Salida:
+## **Punto 2**  
 
-![image](https://github.com/user-attachments/assets/0d7e5e6d-3085-44a1-9e6e-b05759caa7f3)
+En el punto 2 se usa el print para imprimir un número entero, se escribe sin comillas debido a que se imprime una el número entero, no un string con el número.
 
-Cuarto Punto: En los prints se pueden realizar operaciones matemáticas.
-![image](https://github.com/user-attachments/assets/affa377f-76f4-4496-b9d1-b1bbc80c0ca9)
-Salida:
+![image](https://github.com/user-attachments/assets/8e96fbae-6dff-4795-9ad2-0980e3b3ba85)
 
-![image](https://github.com/user-attachments/assets/cdd9e167-cac2-4fae-afec-2595cf8ea755)
+**Salida** 
 
-Quinto Punto:
-![image](https://github.com/user-attachments/assets/f6ffbf9d-5d09-468a-8f2c-99b7d325815b)
+![image](https://github.com/user-attachments/assets/aba27ceb-5a80-4624-a62c-1f1ba0848c2b)
 
-Salida:
+## **Punto 3**  
 
-![image](https://github.com/user-attachments/assets/534f76f0-f1d7-487e-aa45-f1b6b42875f0)
+Igual que en el caso anterior, pero aquí se usa un float, un número décimal.
 
-Sexto Punto:
+![image](https://github.com/user-attachments/assets/7f289286-9678-4336-95a0-affc04bcf228)
 
-![image](https://github.com/user-attachments/assets/5c0eeb40-acad-4470-bb7b-10970482214c)
+**Salida**  
 
-Salida:
+![image](https://github.com/user-attachments/assets/457bc567-6bbd-4047-820e-4b547b0faa66)
 
-![image](https://github.com/user-attachments/assets/82fc7e64-3191-4dab-83a7-95ec63902a23)
+## **Punto 4**  
 
+Los siguientes puntos son operaciones básicas, suma, resta, multiplicación y división. Los prints permite que se realicen operaciones y retorna el resultado en pantalla.
 
-Séptimo Punto:
-![image](https://github.com/user-attachments/assets/afc47c9b-61d8-4c84-8911-645c3f8f5434)
+![image](https://github.com/user-attachments/assets/e35df7bc-6b18-4e26-b586-6b407f106b97)
 
-Salida:
+**Salida**  
 
-![image](https://github.com/user-attachments/assets/7af36273-07d3-4531-9cdf-07865db5254e)
+![image](https://github.com/user-attachments/assets/779fbe90-cdb2-4d65-825d-1d7d52f0be48)
 
-Octavo Punto:
-![image](https://github.com/user-attachments/assets/82fabb85-9abc-4a8a-8373-44845fafa3ef)
+## **Punto 5**  
 
-Salida:
-![image](https://github.com/user-attachments/assets/6ef19e2c-3028-480e-8e19-6105fc29edb3)
+![image](https://github.com/user-attachments/assets/9b03cf39-410e-413d-ab2a-8d6b83a2af54)
 
+**Salida**  
 
-.
-Noveno Punto:
+![image](https://github.com/user-attachments/assets/aa2cf083-fefd-41b9-a9c1-0a0b8d4b2ea9)
 
-Salida:
+## **Punto 6**  
 
-.
-Décimo Punto:
+![image](https://github.com/user-attachments/assets/3b8e480c-7e8c-4e87-ad5e-fac3966e53c2)
 
-Salida:
+**Salida**  
 
-.
-Primer Punto: Se usa prints para imprimir en la consola la frase en su interior entre comillas
+![image](https://github.com/user-attachments/assets/113829a9-51dc-4a90-964c-fffefeac4265)
 
-![image](https://github.com/user-attachments/assets/45fa0230-464c-44c0-ad0b-eca413bb1550)
-Salida:
+## **Punto 7**  
 
-![image](https://github.com/user-attachments/assets/c7ed6051-9065-4a13-bc5c-1c6cac70785f)
+![image](https://github.com/user-attachments/assets/53d73344-ca33-48bf-a977-fe8f4a53a0de)
 
-Segundo Punto: Los prints también pueden imprimir números.
+**Salida**  
 
-![image](https://github.com/user-attachments/assets/ecb62093-b131-4f20-b559-910dd46ffb70)
-Salidad:
+![image](https://github.com/user-attachments/assets/6c015d07-f77a-4e0f-901a-a6a506d2e805)
 
-![image](https://github.com/user-attachments/assets/cfef4526-42b3-483b-ab09-261977ffa214)
+## **Punto 8**  
 
-Tercer Punto: Los float también se pueden imprimir usando un print
-![image](https://github.com/user-attachments/assets/f9a3aebe-e7a5-46d3-a6d4-83d16909afc7)
-Salida:
+En el punto 8 se usa un bucle, el cual realiza que se ejecute el código en su interior mientras la condición sea verdadera. En este caso se usa un for, el cual crea una variable **i**, la cual itera sobre el rango 1 a 4. (Range posee 3 parámetros: el número inicial, el número final menos 1 y el incremento, por defecto 1). Esto produce que se ejecute los prints dentro del for.
 
-![image](https://github.com/user-attachments/assets/0d7e5e6d-3085-44a1-9e6e-b05759caa7f3)
+![image](https://github.com/user-attachments/assets/73b8dc19-c448-45ec-82aa-71c5d2fdd0b7)
 
-Cuarto Punto: En los prints se pueden realizar operaciones matemáticas.
-![image](https://github.com/user-attachments/assets/affa377f-76f4-4496-b9d1-b1bbc80c0ca9)
-Salida:
+**Salida**  
 
-Quinto Punto:
+![image](https://github.com/user-attachments/assets/6a555b06-f508-45cf-8e1d-cc6eff1b3434)
 
-Salida:
+## **Punto 9**  
 
-.
+Similar al punto anterior, solo que con un rango mayor.
 
-Sexto Punto:
+![image](https://github.com/user-attachments/assets/079312a7-c7a3-4548-88b9-551746d47641)
 
-Salida:
+**Salida**  
 
-Séptimo Punto:
+![image](https://github.com/user-attachments/assets/c1293ccd-e353-41b9-a511-b935087fb9f7)
 
-Salida:
+## **Punto 10**  
 
-.
-Octavo Punto:
+Igual que los otros puntos, pero ahora con un rango enorme.
 
-Salida:
+![image](https://github.com/user-attachments/assets/f7e7b2d5-3dec-429e-a7b8-9abb37a8163a)
 
-.
-Noveno Punto:
+**Salida**  
 
-Salida:
+![image](https://github.com/user-attachments/assets/a168d34f-ccaf-44df-8b39-9cab589ed1a4)
 
-.
-Décimo Punto:
+## **Punto 11**  
 
-Salida:
+**Salida**  
 
-.
-Primer Punto: Se usa prints para imprimir en la consola la frase en su interior entre comillas
+## **Punto 12**  
 
-![image](https://github.com/user-attachments/assets/45fa0230-464c-44c0-ad0b-eca413bb1550)
-Salida:
+**Salida**  
 
-![image](https://github.com/user-attachments/assets/c7ed6051-9065-4a13-bc5c-1c6cac70785f)
+## **Punto 13**  
 
-Segundo Punto: Los prints también pueden imprimir números.
+**Salida**  
 
-![image](https://github.com/user-attachments/assets/ecb62093-b131-4f20-b559-910dd46ffb70)
-Salidad:
+## **Punto 14**  
 
-![image](https://github.com/user-attachments/assets/cfef4526-42b3-483b-ab09-261977ffa214)
+**Salida**  
 
-Tercer Punto: Los float también se pueden imprimir usando un print
-![image](https://github.com/user-attachments/assets/f9a3aebe-e7a5-46d3-a6d4-83d16909afc7)
-Salida:
+## **Punto 15**  
 
-![image](https://github.com/user-attachments/assets/0d7e5e6d-3085-44a1-9e6e-b05759caa7f3)
+**Salida**  
 
-Cuarto Punto: En los prints se pueden realizar operaciones matemáticas.
-![image](https://github.com/user-attachments/assets/affa377f-76f4-4496-b9d1-b1bbc80c0ca9)
-Salida:
+## **Punto 16**  
 
-Quinto Punto:
+**Salida**  
 
-Salida:
+## **Punto 17**  
 
-.
+**Salida**  
 
-Sexto Punto:
+## **Punto 18**  
 
-Salida:
+**Salida**  
 
-Séptimo Punto:
+## **Punto 19**  
 
-Salida:
+**Salida**  
 
-.
-Octavo Punto:
+## **Punto 20**  
 
-Salida:
+**Salida**  
 
-.
-Noveno Punto:
+## **Punto 21**  
 
-Salida:
+**Salida**  
 
-.
-Décimo Punto:
+## **Punto 22**  
 
-Salida:
+**Salida**  
 
-.
+## **Punto 23**  
+
+**Salida**  
+
+## **Punto 24**  
+
+**Salida**  
+
+## **Punto 25**  
+
+**Salida**  
+
+## **Punto 26**  
+
+**Salida**  
+
+## **Punto 27**  
+
+**Salida**  
+
+## **Punto 28**  
+
+**Salida**  
+
+## **Punto 29**  
+
+**Salida**  
+
+## **Punto 30**  
+
+**Salida**  
+
+
 
 
 
