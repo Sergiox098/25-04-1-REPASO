@@ -13,7 +13,7 @@
 # # print(597)
 
 # # # 3. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla un número decimal, por
+# # # Escribir un programa en Python que imprima por pantalla un número decimal, por
 # # # ejemplo el 5’3, ó el 7’5.
 
 # # print("\nEjercicio 3")
@@ -21,45 +21,45 @@
 # # print(7.5)
 
 # # # 4. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla la suma de 1234 y 532.
+# # # Escribir un programa en Python que imprima por pantalla la suma de 1234 y 532.
 
 # # print("\nEjercicio 4")
 # # print(1234 + 532)
 
 # # # 5. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla la resta de 1234 y 532.
+# # # Escribir un programa en Python que imprima por pantalla la resta de 1234 y 532.
 
 # # print("\nEjercicio 5")
 # # print(1234 - 532)
 
 # # # 6. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla la multiplicación de 1234 y 532.
+# # # Escribir un programa en Python que imprima por pantalla la multiplicación de 1234 y 532.
 
 # # print("\nEjercicio 6")
 # # print(1234 * 532)
 
 # # # 7. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla la división de 1234 entre 532.
+# # # Escribir un programa en Python que imprima por pantalla la división de 1234 entre 532.
 
 # # print("\nEjercicio 7")
 # # print(1234 / 532)
 
 # # # 8. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla los números del 1 al 3.
+# # # Escribir un programa en Python que imprima por pantalla los números del 1 al 3.
 
 # # print("\nEjercicio 8")
 # # for i in range(1, 4):
 # #     print(i)
     
 # # # 9. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla los números del 1 al 9.
+# # # Escribir un programa en Python que imprima por pantalla los números del 1 al 9.
 
 # # print("\nEjercicio 9")
 # # for i in range(1, 10):
 # #     print(i)
     
 # # # 10. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla los números del 1 al 10.000.
+# # # Escribir un programa en Python que imprima por pantalla los números del 1 al 10.000.
 # # # Conveniente usar bucles.
 
 # # print("\nEjercicio 10")
@@ -67,21 +67,21 @@
 # #     print(i)
     
 # # # 11. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla los números del 5 al 10. 
+# # # Escribir un programa en Python que imprima por pantalla los números del 5 al 10. 
 
 # # print("\nEjercicio 11")
 # # for i in range(5, 11):
 # #     print(i)
     
 # # # 12. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla los números del 5 al 15. 
+# # # Escribir un programa en Python que imprima por pantalla los números del 5 al 15. 
 
 # # print("\nEjercicio 12")
 # # for i in range(5, 16):
 # #     print(i)
     
 # # # 13. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla los números del 5 al 15.000.
+# # # Escribir un programa en Python que imprima por pantalla los números del 5 al 15.000.
 # # # Conveniente usar bucles.
 
 # # print("\nEjercicio 13")
@@ -89,7 +89,7 @@
 # #     print(i)
     
 # # # 14. Ejercicio:
-# # # Escribir un programa en Java que imprima 200 veces la palabra “hola”. Nota: en el
+# # # Escribir un programa en Python que imprima 200 veces la palabra “hola”. Nota: en el
 # # # código fuente que usted escriba debe figurar solamente una vez la palabra “hola”.
 
 # # print("\nEjercicio 14")
@@ -97,7 +97,7 @@
 # #     print("hola")
     
 # # # 15. Ejercicio:
-# # # Escribir un programa en Java que imprima por pantalla los cuadrados de los 30
+# # # Escribir un programa en Python que imprima por pantalla los cuadrados de los 30
 # # # primeros números naturales.
 
 # # print("\nEjercicio 15")
@@ -105,7 +105,7 @@
 # #     print(i**2)
     
 # # # 16. Ejercicio:
-# # # Escribir un programa en Java que multiplique los 20 primeros número naturales
+# # # Escribir un programa en Python que multiplique los 20 primeros número naturales
 # # # (1*2*3*4*5...).
 
 # # print("\nEjercicio 16")
@@ -115,7 +115,7 @@
 # #     print(multi)
     
 # # # 17. Ejercicio:
-# # # Escribir un programa en Java que sume los cuadrados de los cien primeros números
+# # # Escribir un programa en Python que sume los cuadrados de los cien primeros números
 # # # naturales, mostrando el resultado en pantalla.
 
 # # print("\nEjercicio 17")
@@ -125,7 +125,7 @@
 # # print(suma)
 
 # # # 18. Ejercicio:
-# # # Escribir un programa en Java que lea un número entero desde teclado y realiza la
+# # # Escribir un programa en Python que lea un número entero desde teclado y realiza la
 # # # suma de los 100 número siguientes, mostrando el resultado en pantalla.
 
 # # print("\nEjercicio 18")
@@ -136,7 +136,7 @@
 # # print(suma)
 
 # # # 19. Ejercicio:
-# # # Escribir un programa en Java que convierta de euros a dólares. Recibirá un número
+# # # Escribir un programa en Python que convierta de euros a dólares. Recibirá un número
 # # # decimal correspondiente a la cantidad en euros y contestará con la cantidad
 # # # correspondiente en dolares.
 
@@ -148,7 +148,7 @@
 # # print(f"{euros} euros equivalen a {dolares} dolares")
 
 # # # 20. Ejercicio:
-# # # Escribir un programa en Java que calcule el área de un rectángulo del cual se le
+# # # Escribir un programa en Python que calcule el área de un rectángulo del cual se le
 # # # proporcionará por el teclado su altura y anchura (números decimales).
 
 # # print("\nEjercicio 20")
@@ -158,7 +158,7 @@
 # # print(f"El área del rectángulo es {area} unidades cuadradas")
 
 # # # 21. Ejercicio:
-# # # Escribir un programa en Java que lea dos números del teclado y diga cual es el
+# # # Escribir un programa en Python que lea dos números del teclado y diga cual es el
 # # # mayor y cual el menor.
 
 # # print("\nEjercicio 21")
@@ -172,7 +172,7 @@
 # #     print("Los dos números son iguales")
     
 # # # 22. Ejercicio:
-# # # Escribir un programa en Java que lea un número entero por el teclado e imprima
+# # # Escribir un programa en Python que lea un número entero por el teclado e imprima
 # # # todos los número impares menores que él.
 
 # # print("\nEjercicio 22")
@@ -234,7 +234,7 @@
 #             f" son: {solucion_1} y {solucion_2}")
 
 # # 25. Ejercicio:
-# # Pruebe la recursividad en Java. Escriba programas que calculen recursivamente las
+# # Pruebe la recursividad en Python. Escriba programas que calculen recursivamente las
 # # funciones f actorial(n) y Ackermann(x, y).
 
 # print("\nEjercicio 25")
@@ -329,27 +329,30 @@
 # sistema. Descubra cuál es el adecuado en su sistema. Escriba un programa que lea
 # datos controlando el fin de la secuencia con la combinación adecuada.
 
-print("\nEjercicio 29")
+# print("\nEjercicio 29")
         
 # 30. Ejercicio:
 # Escriba un programa que use dos bucles for anidados y el operador de módulo (%)
 # para detectar e imprimir números primos.
     
-print("\nEjercicio 30")
+# print("\nEjercicio 30")
 
-cont=1
-primo=[]
+# cont=1
+# primo=[]
 
-while cont <= 1000:
-    num_primo=[]
-    for i in range (2,4):
-        if cont % i != 0:
-            num_primo.append(True)
-        else:
-            num_primo.append(False)
-    print(num_primo)
-    if num_primo == True:
-        print(f"{cont} es primo")
-        primo.append(cont)
+# while cont <= 100:
+#     num_primo=[]
+#     for i in range (2,11):
+#         if cont % i != 0:
+#             num_primo = True
+#         elif (cont == i) and (cont%i-1 !=0):
+#             num_primo = True
+#             break
+#         else:
+#             num_primo = False
+#             break
+#     if num_primo == True:
+#         print(f"{cont} es primo")
+#         primo.append(cont)
     
-    cont += 1  
+#     cont += 1
