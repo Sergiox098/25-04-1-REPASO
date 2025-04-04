@@ -1,6 +1,6 @@
 #  **Puntos de repaso en Python.**
 
-Los 30 puntos a continuación están hechos para explorar y recordar las principales funciones, estructuras de control, bucles y analizar la lógica para la resolución de problemas en el lenguaje de Python, con el fin de prepararse para la programación orientada a objetos. Hecho por Sergio Alejandro Gómez Contreras. segomezco@unal.edu.co
+Los 30 puntos a continuación están hechos para explorar y recordar las principales funciones, estructuras de control, bucles y analizar la lógica para la resolución de problemas en el lenguaje de Python, con el fin de prepararse para la programación orientada a objetos. Todos los códigos están en comentario, para ejecutar un punto en específico se debe descomentar. Hecho por Sergio Alejandro Gómez Contreras. segomezco@unal.edu.co
 
 ## **Punto 1:**
 En los puntos 1 al punto 7 se utiliza principalmente la función print, para mostrar el contenido en la consola. 
